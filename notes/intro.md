@@ -1,8 +1,6 @@
-# 2024-01-22
+# 事前調査
 
-## 勉強のスケジュールを検討する
-
-### 参考
+## 参考
 
 * [【2024年最新 勉強法】IT未経験者が AWS Cloud Practitionerに5日で一発合格したお話｜合格体験記](https://www.handsshell.online/aws-cloud-practitioner/#google_vignette)  
 * [AWS認定クラウドプラクティショナーとは？難易度や勉強時間の目安を解説](https://and-engineer.com/articles/YwGSlRAAACEAsVo8)
