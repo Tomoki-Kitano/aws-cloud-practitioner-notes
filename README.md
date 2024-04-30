@@ -1,10 +1,37 @@
-# aws-cloud-practitioner-notes
-This repository is a record book for obtaining the AWS Certified Cloud Practitioner
+# AWSクラウドプラクティショナー認定資格取得に向けた学習記録
+
+取得に向けた準備と試験についての記録を記載する
 
 ## 記録
 
+## 事前準備
+
+試験１回目を受験するまでの対応内容  
+
+主に資格試験向けの教本をもとに準備
+
 * [事前準備](notes/intro.md)
+
+## 認定試験１回目 04/10
+
+試験１回目での記録と結果内容
+
 * [試験１回目](notes/firstExam.md)
+
+## 認定試験2回目に向けての準備
+
+試験２回目を受験するまでの対応内容  
+
+udemyでの問題集を用いて準備
+
 * [次試験準備](notes/forSecondExam.md)
+
+## 認定試験２回目 04/24
+
+試験２回目での記録と結果内容
+
 * [試験２回目](notes/secondExam.md)
+
+## 合格後について
+
 * [合格後](notes/after.md)

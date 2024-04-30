@@ -1,47 +1,47 @@
-# 事前調査
+## 事前準備
 
-## 参考
+### 参考
 
 * [【2024年最新 勉強法】IT未経験者が AWS Cloud Practitionerに5日で一発合格したお話｜合格体験記](https://www.handsshell.online/aws-cloud-practitioner/#google_vignette)  
 * [AWS認定クラウドプラクティショナーとは？難易度や勉強時間の目安を解説](https://and-engineer.com/articles/YwGSlRAAACEAsVo8)
 
-## 試験内容について
+### 試験内容について
 
-### 推奨経験
+#### 推奨経験
 
 * ６ヶ月以降
 
-### 試験日
+#### 試験日
 
 * ほぼ毎日開催
 * 3月9日（土）受験予定
 
-### 会場
+#### 会場
 
 * オンライン受験可
 
-### 合格要件
+#### 合格要件
 
 * 70%以上の正答率 (700/1000点)
 
-### 出題範囲
+#### 出題範囲
 
 1. クラウドの概念
 2. セキュリティおよびコンプライアンス
 3. テクノロジー
 4. 請求と料金
 
-### 試験問題数
+#### 試験問題数
 
 * 約65問
 
-### 試験時間
+#### 試験時間
 
 * 90分
 
-## 試験準備
+### 試験準備
 
-### 教材
+#### 教材
 
 * [AWS 初心者向け資料](https://aws.amazon.com/jp/events/aws-event-resource/beginner/)  
 * [AWS 初心者向け資料](https://resources.awscloud.com/cloud-practitioner-essentials-on-demand-training)  
